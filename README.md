@@ -17,10 +17,10 @@ Habit tracking web application developed with PHP and MySQL.
 * Screenshots
 
 * Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](assets/screenshots/homepage.png)
 * Login
-![Login](screenshots/login.png)
+![Login](assets/screenshots/login.png)
 * Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](assets/screenshots/dashboard.png)
 * Habits
-![Habits](screenshots/habits.png)
+![Habits](assets/screenshots/habits.png)
