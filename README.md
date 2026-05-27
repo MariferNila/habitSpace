@@ -17,7 +17,7 @@ Habit tracking web application developed with PHP and MySQL.
 * Screenshots
 
 * Homepage
-![Homepage](assets/screenshots/homepage.png)
+![Home](assets/screenshots/home.png)
 * Login
 ![Login](assets/screenshots/login.png)
 * Dashboard
