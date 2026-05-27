@@ -1,20 +1,20 @@
-* HabitSpace
+** HabitSpace
 
 Habit tracking web application developed with PHP and MySQL.
 
-* Technologies
+** Technologies
 - PHP
 - MySQL
 - HTML5
 - CSS3
 - Bootstrap
 
- * Features
+ ** Features
 - User authentication
 - Habit management
 - Progress tracking
 
-* Screenshots
+** Screenshots
 
 * Homepage
 ![Home](assets/screenshots/home.png)
